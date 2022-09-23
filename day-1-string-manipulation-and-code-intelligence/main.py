@@ -34,9 +34,3 @@ print("hello " + "shibin")
 example
 print("hello)
 '''
-
-
-
-
-
-
