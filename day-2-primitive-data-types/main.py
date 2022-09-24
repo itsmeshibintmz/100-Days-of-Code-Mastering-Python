@@ -26,3 +26,6 @@ print(123 + 456)
 # we can  use _ instead of , in between numbers as it is a large number. Example usually we write large numbers as 123,456,789 
 # instead in python we can write it as 123_456_789
 
+# Float
+
+3.14159
