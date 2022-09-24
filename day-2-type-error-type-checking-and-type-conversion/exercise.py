@@ -9,4 +9,5 @@ sum = first_char + second_char
 print(type(first_char))
 print(first_char)
 
-print(str(first_char) + " + " + str(second_char) + " =" + str(sum))
+# print(str(first_char) + " + " + str(second_char) + " =" + str(sum))
+print(str(sum))
