@@ -16,3 +16,13 @@ print("123" + "345")
 print("Hello" + "123")
 # output will be Hello13
 
+# Integer
+
+123
+
+print(123 + 456)
+## output will be 579
+
+# we can  use _ instead of , in between numbers as it is a large number. Example usually we write large numbers as 123,456,789 
+# instead in python we can write it as 123_456_789
+
