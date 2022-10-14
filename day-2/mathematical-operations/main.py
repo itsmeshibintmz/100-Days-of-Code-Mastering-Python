@@ -18,8 +18,8 @@ print(2 ** 2)
 # (), **, * /, +, -
 
 print(3 * 3 + 3 / 3 - 3) # output will be 7.0
-# 3 * 3 + 3 / 3 - 3 = 9 + 3 / 3 -3
+# 3 * 3 + 3 / 3 - 3 
+# = 9 + 3 / 3 -3
 # = 9 + 1 - 3
 # = 10 - 3
-# = 7
-
+# = 7 # calculation goes from left to right
