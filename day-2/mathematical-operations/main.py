@@ -13,5 +13,13 @@ print(2 ** 2)
 
 # priority
 
-# PEMDAS - Parantheses, Exponents, Multiplication, Division, Addition, Subtraction
+# PEMDAS - Parantheses, Exponents, Multiplication, Division, Addition, Subtraction (), **, *, /, +, -
+
+# (), **, * /, +, -
+
+print(3 * 3 + 3 / 3 - 3) # output will be 7.0
+# 3 * 3 + 3 / 3 - 3 = 9 + 3 / 3 -3
+# = 9 + 1 - 3
+# = 10 - 3
+# = 7
 
