@@ -13,3 +13,22 @@ print(round(8 / 3, 2))
 
 print(type(8 // 3)) # = 2 without converting to int
 
+result = 4 / 2
+
+result /= 2
+
+print(result)
+
+# +=, -=. /=, *= 
+
+# F strings
+#----------
+
+score = 0
+height = 1.8
+isWinning = True
+
+# f-string
+# adding and f" or f' in front of the string
+
+print(f"Your score is {score}, your height is {height}, and you are winning is {isWinning}")
