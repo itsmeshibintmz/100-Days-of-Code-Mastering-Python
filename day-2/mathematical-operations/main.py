@@ -10,3 +10,8 @@ print(type(6/3)) # float
 # ** - power
 # eg:
 print(2 ** 2)
+
+# priority
+
+# PEMDAS - Parantheses, Exponents, Multiplication, Division, Addition, Subtraction
+
