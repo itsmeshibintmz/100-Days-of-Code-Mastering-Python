@@ -23,3 +23,21 @@ print(3 * 3 + 3 / 3 - 3) # output will be 7.0
 # = 9 + 1 - 3
 # = 10 - 3
 # = 7 # calculation goes from left to right
+
+# how to get output 3
+
+print(3 * 3 / 3 + 3 - 3)
+
+# 9 / 3 + 3 -3
+# = 3 + 3 - 3
+# = 6 - 3
+# = 3
+
+# or
+
+print(3 * (3 + 3) / 3 - 3)
+
+# 3 * 6 / 3 - 3
+# = 18 / 3 - 3
+# = 6 - 3
+# = 3
