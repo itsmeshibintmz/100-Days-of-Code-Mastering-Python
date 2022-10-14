@@ -4,7 +4,8 @@
 # # print("Your name ha " + num_char + " characters") # TypeError: can only concatenate str (not "int") to str
 
 # # print(type(num_char)) # type function
-
+    # o/p will be <class 'int>
+    
 # # Type Conversion
 
 # new_num_char = str(num_char)
