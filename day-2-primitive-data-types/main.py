@@ -14,7 +14,7 @@ print("123" + "345")
 # output will be 123345
 
 print("Hello" + "123")
-# output will be Hello13
+# output will be Hello123
 
 # Integer
 
