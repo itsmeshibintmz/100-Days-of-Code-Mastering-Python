@@ -38,14 +38,14 @@ else:
 
 print("Welcome to the rollecaster!")
 
-height = int("What is your height in cm? ")
-age = int("What is your age? ")
+height = int(input("What is your height in cm? "))
+age = int(input("What is your age? "))
 
 if height >= 120:
     print("You can ride the rollecaster!")
     if age < 12:
         print("Please pay $5.")
-    elif age >=12 and age <=18:
+    elif age <=18:
         print("Please pay $7..")
     else:
         print("Please pay $12.")
