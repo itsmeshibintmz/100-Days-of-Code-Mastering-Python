@@ -23,3 +23,16 @@ if height >= 120:
         print("Please pay $12.")
 else:
     print("You can't ride the rollercoaster!")
+
+# eif
+
+
+"""
+if condition1:
+    do A
+elif condition2:
+    do B
+else:
+    do this
+"""
+
