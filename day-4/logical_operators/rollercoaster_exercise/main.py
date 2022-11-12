@@ -8,7 +8,11 @@ if height >= 120:
     print("You can ride the rollecoaster!")
     age = int(input("What is your age? "))
     want_photo = input("Do you want a photo as a memory? Y or N? ")
-    if age < 12:
+    if age >= 45 and age <= 55:
+        bill = 0
+        print(f"Your bill is {bill}")
+        print("Enjoy your ride.")
+    elif age < 12:
         bill += 5
     elif age >= 12 & age < 18:
         bill += 7
@@ -19,6 +23,7 @@ if height >= 120:
         bill += 3
 
     print(f"Your total bill is {bill}")
+    print("Enjoy your ride.")
 
 else:
     print("Sorry, you can't ride the rollercoaster!")
