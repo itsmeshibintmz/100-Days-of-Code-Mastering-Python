@@ -22,8 +22,7 @@ if height >= 120:
     
     if age >= 45 and age <= 55:
         bill = 0
-        print(f"Your bill is ${bill}")
-        print("Enjoy your ride.")
+        print("Everything's going to be okay. Have a free ride on us!")
     print(f"Your total bill is ${bill}")
     print("Enjoy your ride.")
 
