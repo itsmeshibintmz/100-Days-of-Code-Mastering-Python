@@ -22,11 +22,18 @@ for char in name2:
     if char == "L" or char == "O" or char == "V" or char == "E" or char == "l" or char == "o" or char == "v" or char == "e":
         countLove += 1
 
-print(countTrue)
-print(countLove)
+# print(countTrue)
+# print(countLove)
 
 # print(type(countTrue))
 
 count = int(str(countTrue) + str(countLove))
 
-print(count)
+# print(count)
+
+if count < 10 and count > 90:
+    print(f"Your score is **{count}**, you go together like coke and mentos.")
+elif count > 40 and count < 50:
+    print(f"Your score is **{count}**, you are alright together.")
+else:
+    print(f"Your score is **{count}**.")
