@@ -22,8 +22,15 @@ for char in name2:
     if char == "L" or char == "O" or char == "V" or char == "E" or char == "l" or char == "o" or char == "v" or char == "e":
         countLove += 1
 
-## print(countTrue)
+print(countTrue)
+print(countLove)
 
-if count < 40 :
+# print(type(countTrue))
+
+count = int(str(countTrue) + str(countLove))
+
+print(count)
+""" if countTrue < 40 :
     print(f"Your score is {count}.")
 elif count
+"""
