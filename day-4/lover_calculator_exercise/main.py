@@ -30,7 +30,3 @@ print(countLove)
 count = int(str(countTrue) + str(countLove))
 
 print(count)
-""" if countTrue < 40 :
-    print(f"Your score is {count}.")
-elif count
-"""
