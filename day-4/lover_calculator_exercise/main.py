@@ -16,7 +16,11 @@ for char in name2:
 
 for char in name1:
     if char == "L" or char == "O" or char == "V" or char == "E" or char == "l" or char == "o" or char == "v" or char == "e":
-        countLove +=1
+        countLove += 1
+
+for char in name2:
+    if char == "L" or char == "O" or char == "V" or char == "E" or char == "l" or char == "o" or char == "v" or char == "e":
+        countLove += 1
 
 ## print(countTrue)
 
