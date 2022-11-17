@@ -29,7 +29,7 @@ for char in name2:
 
 count = int(str(countTrue) + str(countLove))
 
-print(count)
+# print(count)
 
 if count >= 40 and count <= 50:
     print(f"Your score is **{count}**, you are alright together.") 
