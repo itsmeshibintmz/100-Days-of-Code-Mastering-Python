@@ -1,4 +1,4 @@
-![Badge](https://visitor-counter-badge.vercel.app/api/itsmeshibintmz/itsmeshibintmz)
+![Badge](https://visitor-counter-badge.vercel.app/api/itsmeshibintmz/100-Days-of-Code-Mastering-Python)
 <a href="https://twitter.com/itsmeshibintmz">
   <img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
