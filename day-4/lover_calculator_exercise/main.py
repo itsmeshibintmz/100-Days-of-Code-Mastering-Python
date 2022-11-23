@@ -32,8 +32,8 @@ count = int(str(countTrue) + str(countLove))
 # print(count)
 
 if count >= 40 and count <= 50:
-    print(f"Your score is **{count}**, you are alright together.") 
+    print(f"Your score is {count}, you are alright together.") 
 elif count < 10 or count > 90:
-    print(f"Your score is **{count}**, you go together like coke and mentos.")
+    print(f"Your score is {count}, you go together like coke and mentos.")
 else:
-    print(f"Your score is **{count}**.")
+    print(f"Your score is {count}.")
